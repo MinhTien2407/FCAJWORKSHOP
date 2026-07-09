@@ -11,7 +11,7 @@ chapter: false
 
 
 ### Student Information:
-&emsp; **Full Name:** Trần Minh Tiến
+&emsp; **Full Name:** Tran Minh Tien
 
 &emsp; **Phone Number:** 0365257871
 
@@ -27,7 +27,7 @@ chapter: false
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Internship Duration:** From 25/4/2026 to 19/7/2026
+&emsp; **Internship Duration:** From 17/4/2026 to 10/7/2026
 
 ![Your profile picture](/images/minhtien.jpg)
 

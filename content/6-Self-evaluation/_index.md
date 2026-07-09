@@ -8,7 +8,7 @@ pre: " <b> 6. </b> "
 
 
 
-During my internship at **First Cloud AI Journey (FCAJ)** from **April 25, 2026** to **July 19, 2026**, I had the opportunity to apply the knowledge I gained at university to real-world cloud computing scenarios on **Amazon Web Services (AWS)**.
+During my internship at **First Cloud AI Journey (FCAJ)** from **April 17, 2026** to **July 10, 2026**, I had the opportunity to apply the knowledge I gained at university to real-world cloud computing scenarios on **Amazon Web Services (AWS)**.
 
 Throughout the internship, I participated in a series of hands-on workshops and practical labs covering **Cloud Computing, Cloud Migration, Infrastructure Optimization, Security, Containers, DevOps, CI/CD, Serverless Architecture, Data Analytics, and Cost Optimization**. These activities strengthened my technical knowledge while improving my skills in cloud infrastructure deployment, AWS resource management, automation, problem-solving, technical documentation, teamwork, and communication.
 

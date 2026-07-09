@@ -8,7 +8,7 @@ pre: " <b> 6. </b> "
 
 
 
-Trong suốt thời gian thực tập tại **First Cloud AI Journey (FCAJ)** từ **25/04/2026** đến **19/07/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng những kiến thức đã được trang bị tại trường vào môi trường học tập và thực hành thực tế trên nền tảng **Amazon Web Services (AWS)**.
+Trong suốt thời gian thực tập tại **First Cloud AI Journey (FCAJ)** từ **17/04/2026** đến **10/07/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng những kiến thức đã được trang bị tại trường vào môi trường học tập và thực hành thực tế trên nền tảng **Amazon Web Services (AWS)**.
 
 Trong quá trình thực tập, tôi đã tham gia các workshop và bài thực hành liên quan đến **Cloud Computing, Cloud Migration, System Optimization, Security, Containers, DevOps, CI/CD, Serverless Architecture, Data Analytics và Cost Optimization**. Thông qua các nội dung này, tôi đã nâng cao kiến thức chuyên môn cũng như cải thiện các kỹ năng về triển khai hạ tầng Cloud, tự động hóa quy trình, quản lý tài nguyên AWS, phân tích hệ thống, làm việc nhóm, nghiên cứu tài liệu kỹ thuật và viết báo cáo.
 
