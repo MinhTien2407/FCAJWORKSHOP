@@ -21,11 +21,11 @@ pre: " <b> 1.9. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ---------- | ------------ | ---------------- | -------------- |
-| 2 | - Thiết lập hệ thống đăng nhập một lần (Single Sign-On) cho AWS Organizations bằng AWS IAM Identity Center (AWS SSO). | **29/06/2026** | **29/06/2026** | https://000012.awsstudygroup.com/ |
-| 3 | - Thực hành giới hạn quyền người dùng với IAM Permission Boundary.<br>- Kiểm soát phạm vi cấp quyền cho IAM User và IAM Role. | **30/06/2026** | **30/06/2026** | https://000030.awsstudygroup.com/ |
-| 4 | - Cấu hình điều kiện giới hạn việc Assume Role.<br>- Tìm hiểu cơ chế Limiting Role Transfer by Condition. | **01/07/2026** | **01/07/2026** | https://000044.awsstudygroup.com/ |
-| 5 | - Đánh giá cấu hình bảo mật hệ thống với AWS Security Hub.<br>- Kiểm tra các tiêu chuẩn bảo mật và phát hiện rủi ro. | **02/07/2026** | **02/07/2026** | https://000018.awsstudygroup.com/ |
-| 6 | - Cấu hình AWS WAF để bảo vệ Website và API.<br>- Thiết lập các Web ACL và Rule nhằm ngăn chặn các cuộc tấn công phổ biến. | **03/07/2026** | **03/07/2026** | https://000026.awsstudygroup.com/ |
+| 2 | - Thiết lập hệ thống đăng nhập một lần (Single Sign-On) cho AWS Organizations bằng AWS IAM Identity Center (AWS SSO). | **27/06/2026** | **27/06/2026** | https://000012.awsstudygroup.com/ |
+| 3 | - Thực hành giới hạn quyền người dùng với IAM Permission Boundary.<br>- Kiểm soát phạm vi cấp quyền cho IAM User và IAM Role. | **28/06/2026** | **28/06/2026** | https://000030.awsstudygroup.com/ |
+| 4 | - Cấu hình điều kiện giới hạn việc Assume Role.<br>- Tìm hiểu cơ chế Limiting Role Transfer by Condition. | **29/06/2026** | **29/06/2026** | https://000044.awsstudygroup.com/ |
+| 5 | - Đánh giá cấu hình bảo mật hệ thống với AWS Security Hub.<br>- Kiểm tra các tiêu chuẩn bảo mật và phát hiện rủi ro. | **30/06/2026** | **30/06/2026** | https://000018.awsstudygroup.com/ |
+| 6 | - Cấu hình AWS WAF để bảo vệ Website và API.<br>- Thiết lập các Web ACL và Rule nhằm ngăn chặn các cuộc tấn công phổ biến. | **01/07/2026** | **01/07/2026** | https://000026.awsstudygroup.com/ |
 
 ---
 

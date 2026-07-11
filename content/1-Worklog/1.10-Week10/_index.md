@@ -1,7 +1,7 @@
 ---
 title: "Week 10 Worklog"
 date: 2026-07-07
-weight: 2
+weight: 1
 chapter: false
 pre: " <b> 1.10. </b> "
 ---
@@ -22,11 +22,11 @@ pre: " <b> 1.10. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference |
 | --- | ---- | ---------- | ---------------- | --------- |
-| Monday | - Explore Amazon Lightsail Containers.<br>- Deploy containerized applications using Amazon Lightsail. | **06/07/2026** | **06/07/2026** | https://000046.awsstudygroup.com/vi/ |
-| Tuesday | - Create a Kubernetes cluster with Amazon EKS.<br>- Learn how to manage workloads and deploy applications on EKS. | **07/07/2026** | **07/07/2026** | https://000126.awsstudygroup.com/vi/ |
-| Wednesday | - Build CI/CD pipelines using AWS CodePipeline.<br>- Automate the application build and deployment process. | **08/07/2026** | **08/07/2026** | https://000152.awsstudygroup.com/vi/ |
-| Thursday | - Migrate a monolithic application to a Microservices architecture using Docker and AWS Fargate.<br>- Validate deployment and scalability. | **09/07/2026** | **09/07/2026** | https://000067.awsstudygroup.com/vi/ |
-| Friday | - Integrate GitHub with AWS CodePipeline for CI/CD on Amazon EKS.<br>- Verify automated deployments after source code updates. | **10/07/2026** | **10/07/2026** | https://000062.awsstudygroup.com/vi/ |
+| Monday | - Explore Amazon Lightsail Containers.<br>- Deploy containerized applications using Amazon Lightsail. | **02/07/2026** | **02/07/2026** | https://000046.awsstudygroup.com/vi/ |
+| Tuesday | - Create a Kubernetes cluster with Amazon EKS.<br>- Learn how to manage workloads and deploy applications on EKS. | **03/07/2026** | **03/07/2026** | https://000126.awsstudygroup.com/vi/ |
+| Wednesday | - Build CI/CD pipelines using AWS CodePipeline.<br>- Automate the application build and deployment process. | **04/07/2026** | **04/07/2026** | https://000152.awsstudygroup.com/vi/ |
+| Thursday | - Migrate a monolithic application to a Microservices architecture using Docker and AWS Fargate.<br>- Validate deployment and scalability. | **05/07/2026** | **05/07/2026** | https://000067.awsstudygroup.com/vi/ |
+| Friday | - Integrate GitHub with AWS CodePipeline for CI/CD on Amazon EKS.<br>- Verify automated deployments after source code updates. | **06/07/2026** | **06/07/2026** | https://000062.awsstudygroup.com/vi/ |
 
 ---
 

@@ -22,11 +22,11 @@ pre: " <b> 1.10. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ---------- | ------------ | ---------------- | -------------- |
-| 2 | - Làm quen với Amazon Lightsail Containers.<br>- Triển khai ứng dụng Container trên Amazon Lightsail. | **06/07/2026** | **06/07/2026** | https://000046.awsstudygroup.com/vi/ |
-| 3 | - Khởi tạo Kubernetes Cluster với Amazon EKS.<br>- Tìm hiểu cách quản lý tài nguyên và triển khai ứng dụng trên EKS. | **07/07/2026** | **07/07/2026** | https://000126.awsstudygroup.com/vi/ |
-| 4 | - Xây dựng quy trình CI/CD với AWS CodePipeline.<br>- Tự động hóa quy trình Build và Deploy ứng dụng. | **08/07/2026** | **08/07/2026** | https://000152.awsstudygroup.com/vi/ |
-| 5 | - Chuyển đổi ứng dụng Monolith sang kiến trúc Microservices bằng Docker và AWS Fargate.<br>- Kiểm thử khả năng triển khai và mở rộng dịch vụ. | **09/07/2026** | **09/07/2026** | https://000067.awsstudygroup.com/vi/ |
-| 6 | - Tích hợp GitHub với AWS CodePipeline để triển khai CI/CD trên Amazon EKS.<br>- Kiểm tra quy trình triển khai tự động sau khi cập nhật mã nguồn. | **10/07/2026** | **10/07/2026** | https://000062.awsstudygroup.com/vi/ |
+| 2 | - Làm quen với Amazon Lightsail Containers.<br>- Triển khai ứng dụng Container trên Amazon Lightsail. | **02/07/2026** | **02/07/2026** | https://000046.awsstudygroup.com/vi/ |
+| 3 | - Khởi tạo Kubernetes Cluster với Amazon EKS.<br>- Tìm hiểu cách quản lý tài nguyên và triển khai ứng dụng trên EKS. | **03/07/2026** | **03/07/2026** | https://000126.awsstudygroup.com/vi/ |
+| 4 | - Xây dựng quy trình CI/CD với AWS CodePipeline.<br>- Tự động hóa quy trình Build và Deploy ứng dụng. | **04/07/2026** | **04/07/2026** | https://000152.awsstudygroup.com/vi/ |
+| 5 | - Chuyển đổi ứng dụng Monolith sang kiến trúc Microservices bằng Docker và AWS Fargate.<br>- Kiểm thử khả năng triển khai và mở rộng dịch vụ. | **05/07/2026** | **05/07/2026** | https://000067.awsstudygroup.com/vi/ |
+| 6 | - Tích hợp GitHub với AWS CodePipeline để triển khai CI/CD trên Amazon EKS.<br>- Kiểm tra quy trình triển khai tự động sau khi cập nhật mã nguồn. | **06/07/2026** | **06/07/2026** | https://000062.awsstudygroup.com/vi/ |
 
 ---
 

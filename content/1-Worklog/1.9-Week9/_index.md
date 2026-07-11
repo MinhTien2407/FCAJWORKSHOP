@@ -21,11 +21,11 @@ pre: " <b> 1.9. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference |
 | --- | ---- | ---------- | ---------------- | --------- |
-| Monday | - Configure Single Sign-On for AWS Organizations using AWS IAM Identity Center (AWS SSO). | **29/06/2026** | **29/06/2026** | https://000012.awsstudygroup.com/ |
-| Tuesday | - Configure IAM Permission Boundaries.<br>- Restrict the maximum permissions assigned to IAM Users and IAM Roles. | **30/06/2026** | **30/06/2026** | https://000030.awsstudygroup.com/ |
-| Wednesday | - Configure conditional AssumeRole permissions.<br>- Explore Limiting Role Transfer by Condition. | **01/07/2026** | **01/07/2026** | https://000044.awsstudygroup.com/ |
-| Thursday | - Evaluate the AWS environment using AWS Security Hub.<br>- Review security standards and identify potential risks. | **02/07/2026** | **02/07/2026** | https://000018.awsstudygroup.com/ |
-| Friday | - Configure AWS WAF to protect web applications and APIs.<br>- Create Web ACLs and security rules to mitigate common web attacks. | **03/07/2026** | **03/07/2026** | https://000026.awsstudygroup.com/ |
+| Monday | - Configure Single Sign-On for AWS Organizations using AWS IAM Identity Center (AWS SSO). | **27/06/2026** | **27/06/2026** | https://000012.awsstudygroup.com/ |
+| Tuesday | - Configure IAM Permission Boundaries.<br>- Restrict the maximum permissions assigned to IAM Users and IAM Roles. | **28/06/2026** | **28/06/2026** | https://000030.awsstudygroup.com/ |
+| Wednesday | - Configure conditional AssumeRole permissions.<br>- Explore Limiting Role Transfer by Condition. | **29/06/2026** | **29/06/2026** | https://000044.awsstudygroup.com/ |
+| Thursday | - Evaluate the AWS environment using AWS Security Hub.<br>- Review security standards and identify potential risks. | **30/06/2026** | **30/06/2026** | https://000018.awsstudygroup.com/ |
+| Friday | - Configure AWS WAF to protect web applications and APIs.<br>- Create Web ACLs and security rules to mitigate common web attacks. | **01/07/2026** | **01/07/2026** | https://000026.awsstudygroup.com/ |
 
 ---
 
