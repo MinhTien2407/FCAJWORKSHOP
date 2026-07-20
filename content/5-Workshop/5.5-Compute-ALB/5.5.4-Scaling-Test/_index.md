@@ -32,4 +32,4 @@ stress --cpu 2 --timeout 600s
 2. **Auto Scaling Actions:** Navigate to ASG > **Activity history**. You will observe an automated event triggered: *"Launching a new EC2 instance..."*. The ASG successfully provisions a new healthy node to handle the resource spike.
 3. **System Cool-down:** Press `Ctrl + C` to terminate the `stress` process. Verify after the cooldown threshold that the ASG executes a **Scale-in** operation, safely terminating unnecessary instances to achieve cloud cost optimization.
 
-![Auto Scaling Test Result](/images/asg-test-result.png)
+![Auto Scaling Test Result](/images/5-Workshop/5.5-Compute-ALB/asg-test-result.png)
