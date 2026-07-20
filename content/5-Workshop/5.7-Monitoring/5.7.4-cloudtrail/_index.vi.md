@@ -16,5 +16,5 @@ Nếu CloudWatch là camera giám sát "sức khỏe" hệ thống, thì CloudTr
 5. Cuộn xuống nhấn **Next**, kiểm tra lại thông tin và nhấn **Create trail**.
 6. Để xem lịch sử hoạt động, chuyển sang tab **Event history**. Tại đây, mọi thao tác cấu hình từ đầu Workshop đến giờ (như tạo VPC, EC2, thay đổi WAF) đều được ghi nhận chi tiết với đầy đủ địa chỉ IP và tài khoản thực thi.
 
-![Lịch sử sự kiện CloudTrail](images/5-Workshop/5.7-Monitoring/cloudtrail-logs.png)
+![Lịch sử sự kiện CloudTrail](/images/5-Workshop/5.7-Monitoring/cloudtrail-logs.png)
 *Hình 5.7.4.1: Giao diện CloudTrail Event History ghi nhận toàn bộ dấu vết kiểm toán hạ tầng, đảm bảo tính minh bạch và bảo mật.*

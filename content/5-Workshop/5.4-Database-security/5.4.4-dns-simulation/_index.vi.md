@@ -15,7 +15,7 @@ pre : " <b> 5.4.4. </b> "
    nslookup pawverse-mysql.xxx.ap-southeast-1.rds.amazonaws.com
    ```
 
-![Mô phỏng DNS nslookup](images/5-Workshop/5.4-Database-Security/dns-nslookup.png)
+![Mô phỏng DNS nslookup](/images/5-Workshop/5.4-Database-Security/dns-nslookup.png)
 *Hình 5.4.4.1: Hệ thống DNS từ chối cung cấp địa chỉ IP (No A/AAAA records) cho các truy vấn từ Internet công cộng.*
 
 3. **Phân tích kết quả:** Thay vì trả về một địa chỉ IP như các trang web thông thường, AWS Route 53 đã chặn đứng truy vấn và trả về thông báo lỗi `No internal type for both IPv4 and IPv6 Addresses`.

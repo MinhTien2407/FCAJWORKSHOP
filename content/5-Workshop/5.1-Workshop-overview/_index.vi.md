@@ -14,7 +14,7 @@ Workshop này sẽ hướng dẫn bạn từng bước cách xây dựng một g
 #### Sơ đồ Kiến trúc (Architecture Diagram)
 Hệ thống PawVerse được thiết kế với kiến trúc đa tầng (Multi-tier Architecture) trên nhiều vùng sẵn sàng (Multi-AZ), đảm bảo tính sẵn sàng cao (High Availability) và phân tách rõ ràng luồng dữ liệu.
 
-![Sơ đồ kiến trúc PawVerse](images/5-Workshop/5.1-Workshop-overview/diagram.png)
+![Sơ đồ kiến trúc PawVerse](/images/5-Workshop/5.1-Workshop-overview/diagram.png)
 *Hình 5.1.1: Sơ đồ luồng dữ liệu kiến trúc PawVerse trên AWS.*
 
 #### Giải thích các thành phần lõi

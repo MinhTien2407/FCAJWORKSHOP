@@ -21,5 +21,5 @@ pre : " <b> 5.7.5. </b> "
    + Kiểm tra hộp thư Email đã đăng ký ở bước trước. Bạn sẽ nhận được một email khẩn cấp từ `AWS Notifications` với tiêu đề báo động về việc vi phạm ngưỡng CPU của hệ thống PawVerse.
    + Bài kiểm thử thành công, chứng minh luồng tự động hóa phản hồi sự cố (Incident Response) đã sẵn sàng bảo vệ hệ thống 24/7.
 
-![Xác nhận Email SNS](images/5-Workshop/5.7-Monitoring/sns-email.png)
+![Xác nhận Email SNS](/images/5-Workshop/5.7-Monitoring/sns-email.png)
 *Hình 5.7.5.1: Cảnh báo tự động được kích hoạt và gửi thành công đến hòm thư quản trị viên thông qua dịch vụ AWS SNS.*

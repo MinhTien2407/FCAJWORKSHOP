@@ -15,7 +15,7 @@ Chúng ta sẽ sử dụng công cụ **VPC and more** để tự động hóa v
 4. **Availability Zones (AZs):** Chọn **2** (`ap-southeast-1a` và `1b`) để đảm bảo dự phòng (High Availability).
 5. **Subnets:** Thiết lập **2 Public subnets** (Dành cho ALB) và **4 Private subnets** (Dành cho EC2 và Database).
 
-![Khởi tạo VPC](images/5-Workshop/5.3-vpc-network/vpc.png)
+![Khởi tạo VPC](/images/5-Workshop/5.3-vpc-network/vpc.png)
 *Hình 5.3.1.1: Cấu hình dải mạng và chia Subnet cho dự án PawVerse.*
 
 #### 2. Kiểm tra Internet Gateway (IGW)
@@ -25,5 +25,5 @@ Internet Gateway là "cánh cửa" duy nhất cho phép mạng VPC giao tiếp v
 2. Tìm kiếm IGW có tên `pawverse-igw`.
 3. Kiểm tra cột **State**, phải đảm bảo trạng thái là **Attached** (Đã gắn) vào VPC `pawverse-vpc`. Nếu trạng thái là Detached, bạn phải chọn *Actions -> Attach to VPC*.
 
-![Kiểm tra IGW](images/5-Workshop/5.3-vpc-network/igw.png)
+![Kiểm tra IGW](/images/5-Workshop/5.3-vpc-network/igw.png)
 *Hình 5.3.1.2: Xác nhận Internet Gateway đã được gắn thành công vào VPC.*

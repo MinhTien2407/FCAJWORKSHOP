@@ -50,7 +50,7 @@ export REDIS_HOST="clustercfg.pawverse-redis.ckq3fs.apse1.cache.amazonaws.com"
 nohup ./pawverse-backend > /var/log/pawverse.log 2>&1 &
 ```
 
-![Cấu hình Launch Template](images/5-Workshop/5.5-Compute-ALB/launch-template.png)
+![Cấu hình Launch Template](/images/5-Workshop/5.5-Compute-ALB/launch-template.png)
 *Hình 5.5.1.1: Giao diện đính kèm IAM Role 'lab' và nạp mã lệnh tự động hóa User Data.*
 
 8. Nhấn **Create launch template** để hoàn tất bản thiết kế máy chủ mẫu.

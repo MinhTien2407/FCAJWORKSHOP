@@ -18,7 +18,7 @@ During high-volume e-commerce spikes, concurrent users fetching product catalogs
    + Select the cache Subnet Group containing our internal **Private Subnets**.
 6. To safeguard internal data traffic, Encryption in transit is enabled to fulfill corporate information security compliance.
 
-![ElastiCache Redis Cluster](images/5-Workshop/5.4-Database-Security/elasticache-redis.png)
+![ElastiCache Redis Cluster](/images/5-Workshop/5.4-Database-Security/elasticache-redis.png)
 *Figure 5.4.3.1: The operational Redis cache node cluster showing its status active and ready.*
 
 7. Click **Create**. Once the environment state transitions to a healthy **Available** status, record the **Configuration Endpoint** address string (which acts as the centralized routing entry point when Cluster mode is active). This endpoint parameter will be dynamically passed to the EC2 application environment parameters later to activate distributed application caching.

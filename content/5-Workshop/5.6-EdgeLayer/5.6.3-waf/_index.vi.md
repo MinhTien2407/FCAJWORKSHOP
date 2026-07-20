@@ -14,7 +14,7 @@ pre : " <b> 5.6.3. </b> "
 3. Trong giao diện chi tiết của WAF, chọn **Add rule** ---> **Add managed rule groups**.
 4. Mở rộng mục **AWS managed rule groups**, bật thêm tập luật **SQL database** (Phân tích và triệt tiêu các mã độc cố tình chèn chuỗi tấn công cơ sở dữ liệu).
 
-![Tập luật WAF Rules](images/5-Workshop/5.6-EdgeLayer/waf-rules.png)
+![Tập luật WAF Rules](/images/5-Workshop/5.6-EdgeLayer/waf-rules.png)
 *Hình 5.6.3.1: Các tập luật bảo mật (Managed Rules) được tinh chỉnh, bổ sung thêm lá chắn SQL Injection để bảo vệ Database lõi.*
 
 5. Nhấn Save để áp dụng cấu hình. Hệ thống tường lửa ngay lập tức được phủ lên tầng Biên toàn cầu, biến kiến trúc PawVerse thành một pháo đài vững chắc chặn đứng mọi gói tin chứa mã độc từ ngoài rìa biên giới.

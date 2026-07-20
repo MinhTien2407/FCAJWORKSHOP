@@ -16,7 +16,7 @@ pre : " <b> 5.4.1. </b> "
    + `DB_PASS` : `pawverse123Secret`
    + `JWT_SECRET` : `mySecretKeyForJwtTokenInPawVerseApplication2026`
 
-![Tạo AWS Secrets Manager](images/5-Workshop/5.4-Database-Security/secrets-manager.png)
+![Tạo AWS Secrets Manager](/images/5-Workshop/5.4-Database-Security/secrets-manager.png)
 *Hình 5.4.1.1: Khai báo thông tin kết nối Cơ sở dữ liệu dưới dạng các cặp Key/Value bảo mật.*
 
 4. Nhấn **Next**. Tại mục **Secret name**, đặt tên định danh cho môi trường production là: `pawverse-prod-secrets`.

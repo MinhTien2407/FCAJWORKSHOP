@@ -24,7 +24,7 @@ The Auto Scaling Group (ASG) manages cluster resilience and lifecycle tasks. It 
    + **Minimum capacity:** `2`.
    + **Maximum capacity:** `5` *(Capping peak system scale boundaries to mitigate structural resource budget overruns during anomaly event cycles)*.
 
-![Configure ASG Capacity](images/5-Workshop/5.5-Compute-ALB/asg-capacity.png)
+![Configure ASG Capacity](/images/5-Workshop/5.5-Compute-ALB/asg-capacity.png)
 *Figure 5.5.3.1: Defining resource scaling capacity threshold parameters for the PawVerse application cluster.*
 
 7. Click **Next** through standard tags and settings configurations, then finalize by clicking **Create Auto Scaling group**. The system immediately reads the template directives to automate the initialization of the first 2 EC2 nodes.

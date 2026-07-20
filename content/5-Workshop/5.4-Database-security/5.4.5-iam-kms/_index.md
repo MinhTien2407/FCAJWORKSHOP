@@ -11,7 +11,7 @@ The storage components deployed via Secrets Manager and the RDS relational clust
 
 Upon the deployment of `pawverse-prod-secrets`, the system encapsulates parameters using the **AWS Key Management Service (KMS)** layer. By utilizing the default managed encryption alias key `aws/secretsmanager`, any baseline data extraction attempts executed by unauthenticated system entities failing key validation will yield only scrambled, indecipherable binary streams.
 
-![KMS Encryption](images/5-Workshop/5.4-Database-Security/kms-key.png)
+![KMS Encryption](/images/5-Workshop/5.4-Database-Security/kms-key.png)
 *Figure 5.4.5.1: Encryption configurations integrating native AWS KMS keys to reinforce data tier confidentiality.*
 
 #### 2. Enforcing Least-Privilege Identity via IAM Roles
@@ -22,5 +22,5 @@ For this functional deployment phase, we leverage a pre-provisioned trusted mach
 + **`AmazonSSMManagedInstanceCore`**: Grants Cloud Operations personnel secure interactive console shell access via Systems Manager Session Manager interface, entirely eliminating the requirement to expose high-risk traditional SSH network ports (Port 22).
 + **`CloudWatchAgentServerPolicy`**: Authorizes system monitoring daemons to securely pipe local event logs and OS-level compute performance data (CPU usage, RAM overhead percentage) directly to the centralized CloudWatch observability pipeline.
 
-![IAM Role lab](images/5-Workshop/5.4-Database-Security/iam-role.png)
+![IAM Role lab](/images/5-Workshop/5.4-Database-Security/iam-role.png)
 *Figure 5.4.5.2: Comprehensive permission policies mapped to the active 'lab' IAM Role bound to the compute layer.*

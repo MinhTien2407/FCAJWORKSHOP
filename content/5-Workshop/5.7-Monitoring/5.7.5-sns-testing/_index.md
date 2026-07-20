@@ -21,5 +21,5 @@ To guarantee that the CloudWatch Alarm and SNS notification mechanisms function 
    + Audit the registered administrator Email inbox. You will receive an automated critical notification from `AWS Notifications` detailing the CPU threshold breach within the PawVerse infrastructure.
    + This successful validation proves that the automated Incident Response pipeline is fully operational and capable of safeguarding the system 24/7.
 
-![SNS Email Validation](images/5-Workshop/5.7-Monitoring/sns-email.png)
+![SNS Email Validation](/images/5-Workshop/5.7-Monitoring/sns-email.png)
 *Figure 5.7.5.1: Automated infrastructure alert successfully triggered and delivered to the administrator's inbox via AWS SNS.*

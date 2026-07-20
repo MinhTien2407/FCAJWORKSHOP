@@ -28,7 +28,7 @@ ALB đóng vai trò là chốt chặn đầu tiên tại lớp Public, hứng to
    + Chọn VPC: `pawverse-vpc`.
    + **Mappings (Phân vùng mạng):** Tích chọn 2 vùng Availability Zone và chọn chính xác **2 Public Subnets** đã chia. Điều này đảm bảo ALB có thể giao tiếp với Internet bên ngoài.
 
-![Cấu hình Mạng cho ALB](images/5-Workshop/5.5-Compute-ALB/alb.png)
+![Cấu hình Mạng cho ALB](/images/5-Workshop/5.5-Compute-ALB/alb.png)
 *Hình 5.5.2.1: Ánh xạ cấu hình định tuyến cho Application Load Balancer vào các Public Subnets.*
 
 6. **Security Groups:** Chọn nhóm Security Group của ALB, cho phép mở Port công cộng công khai (Mở HTTP Port `80` và HTTPS Port `443` ra toàn thế giới `0.0.0.0/0`).

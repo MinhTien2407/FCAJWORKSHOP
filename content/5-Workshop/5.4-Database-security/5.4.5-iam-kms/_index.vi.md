@@ -11,7 +11,7 @@ Hệ thống quản lý két sắt Secrets Manager và cơ sở dữ liệu RDS 
 
 Khi khởi tạo `pawverse-prod-secrets`, AWS mã hóa toàn bộ thông tin bằng cách kết hợp với dịch vụ **AWS Key Management Service (KMS)**. Hệ thống sử dụng khóa quản lý mặc định `aws/secretsmanager`. Mọi hành động đọc ghi bất hợp pháp từ những thực thể không có quyền tương tác với khóa KMS này sẽ chỉ thu được những chuỗi dữ liệu nhị phân đã bị xáo trộn hoàn toàn.
 
-![Mã hóa KMS](images/5-Workshop/5.4-Database-Security/kms-key.png)
+![Mã hóa KMS](/images/5-Workshop/5.4-Database-Security/kms-key.png)
 *Hình 5.4.5.1: Cấu hình mã hóa tự động tích hợp khóa quản lý AWS KMS bảo vệ lớp dữ liệu ẩn.*
 
 #### 2. Định danh Thực thể Máy chủ với IAM Role
@@ -22,5 +22,5 @@ Trong phạm vi Workshop thực hành này, chúng ta sử dụng một định 
 + **`AmazonSSMManagedInstanceCore`**: Cho phép đội ngũ kỹ sư vận hành Cloud kết nối an toàn vào shell hệ điều hành thông qua Systems Manager Session Manager trên trình duyệt, loại bỏ hoàn toàn việc phải mở cổng cổng SSH truyền thống (Port 22).
 + **`CloudWatchAgentServerPolicy`**: Cấp quyền cho các tiến trình nền chạy trong máy chủ thu thập và gửi các chỉ số hiệu năng (Log hệ thống, % CPU, % dung lượng bộ nhớ RAM) về trung tâm giám sát CloudWatch tập trung.
 
-![IAM Role lab](images/5-Workshop/5.4-Database-Security/iam-role.png)
+![IAM Role lab](/images/5-Workshop/5.4-Database-Security/iam-role.png)
 *Hình 5.4.5.2: Danh sách các quyền hạn thực thi an toàn (Policies) được đính kèm vào định danh IAM Role 'lab'.*

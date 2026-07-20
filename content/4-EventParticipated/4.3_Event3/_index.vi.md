@@ -97,6 +97,6 @@ Sự kiện mang đến nhiều góc nhìn thực tế về việc ứng dụng 
 Qua các phần trình bày, em hiểu rằng việc phát triển một giải pháp AI thành công không chỉ phụ thuộc vào công nghệ mà còn cần hiểu rõ nhu cầu của doanh nghiệp, tối ưu quy trình làm việc và luôn có sự kiểm soát của con người trong các quyết định quan trọng.
 
 #### Một số hình ảnh khi tham gia sự kiện
-![Event 3](images/27thang6event3.png)
+![Event 3](/images/27thang6event3.png)
 
 > Tổng kết, sự kiện giúp em mở rộng kiến thức về AI ứng dụng trong doanh nghiệp, nâng cao tư duy thiết kế hệ thống hiện đại và hiểu rõ hơn cách kết hợp AI với Cloud Computing để giải quyết các bài toán thực tế.

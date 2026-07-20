@@ -23,5 +23,5 @@ To instruct the Auto Scaling Group when to dynamically provision additional node
 5. Click **Next**, naming the Alarm `PawVerse-High-CPU-Alert`.
 6. Click **Create alarm**. Moving forward, the PawVerse architecture is completely self-sufficient, capable of automating both observability tracking and critical incident response protocols!
 
-![CloudWatch Alarm Creation](images/5-Workshop/5.7-Monitoring/cw-alarm.png)
+![CloudWatch Alarm Creation](/images/5-Workshop/5.7-Monitoring/cw-alarm.png)
 *Figure 5.7.3.1: Proactive alerting mechanism configured to dispatch Email notifications to administrators when compute loads breach safety parameters.*

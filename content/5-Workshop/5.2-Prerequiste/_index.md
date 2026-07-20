@@ -9,13 +9,13 @@ pre : " <b> 5.2. </b> "
 #### 1. AWS Account & Permissions (IAM)
 To fully deploy the services in the PawVerse architecture (VPC, EC2, RDS, CloudFront, WAF, etc.), you must use an AWS account with the highest administrative privileges (**AdministratorAccess**) or the sandbox account provided by the FCAJ program.
 
-![IAM Administrator Access](images/5-Workshop/5.2-Prerequisite/iam.png)
+![IAM Administrator Access](/images/5-Workshop/5.2-Prerequisite/iam.png)
 *Figure 5.2.1: Ensure the AWS account has sufficient permissions to provision infrastructure resources.*
 
 #### 2. Deployment Region
 To minimize network latency for users in Vietnam and ensure consistent service operation, all core resources (VPC, EC2, RDS) will be deployed in the **Singapore (ap-southeast-1)** region. Note that CloudFront and WAF operate as Global services.
 
-![Select Singapore Region](images/5-Workshop/5.2-Prerequisite/region.png)
+![Select Singapore Region](/images/5-Workshop/5.2-Prerequisite/region.png)
 *Figure 5.2.2: Select the ap-southeast-1 (Singapore) region on the AWS Console.*
 
 #### 3. Application Source Code Preparation

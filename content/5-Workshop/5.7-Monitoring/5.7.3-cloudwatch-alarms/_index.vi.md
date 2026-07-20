@@ -23,5 +23,5 @@ pre : " <b> 5.7.3. </b> "
 5. Cuộn xuống nhấn **Next**, đặt tên Alarm là `PawVerse-High-CPU-Alert`.
 6. Nhấn **Create alarm**. Kể từ lúc này, kiến trúc PawVerse đã hoàn toàn tự động hóa quy trình giám sát và phản hồi sự cố!
 
-![CloudWatch Alarm Config](images/5-Workshop/5.7-Monitoring/cw-alarm.png)
+![CloudWatch Alarm Config](/images/5-Workshop/5.7-Monitoring/cw-alarm.png)
 *Hình 5.7.3.1: Hệ thống cảnh báo tự động gửi thông báo đến Email quản trị viên khi cụm máy chủ vượt ngưỡng tải an toàn.*

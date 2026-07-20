@@ -104,4 +104,4 @@ CrescoNet's success highlights the importance of adopting a data-driven approach
 
 For organizations running large-scale cloud workloads, this case study serves as an excellent example that meaningful cost savings don't necessarily come from reducing infrastructure—they come from designing smarter architectures and continuously optimizing them over time.
 
-![ Blog 3](images/Blog3.png)
+![ Blog 3](/images/Blog3.png)

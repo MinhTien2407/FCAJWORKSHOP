@@ -27,7 +27,7 @@ Amazon CloudFront not only enables blazing-fast website loading through global c
    + **Origin:** Select the second origin, the ALB Backend.
    + **Allowed HTTP methods:** Expand to `GET, HEAD, OPTIONS, PUT, POST, PATCH, DELETE`. Click Create.
 
-![CloudFront Behaviors Routing](images/5-Workshop/5.6-EdgeLayer/cloudfront-behaviors.png)
+![CloudFront Behaviors Routing](/images/5-Workshop/5.6-EdgeLayer/cloudfront-behaviors.png)
 *Figure 5.6.2.1: Smart routing configuration, separating the API traffic to the Load Balancer and static traffic to S3.*
 
 #### Step 7: Admire the System Results (Show off)
@@ -37,5 +37,5 @@ At this point, all routing configurations are complete. It's time to enjoy the f
 2. Copy and paste the domain `d34pgctiih4me1.cloudfront.net` into your web browser.
 
 
-![PawVerse Result on CloudFront](images/5-Workshop/5.6-EdgeLayer/pawverse-cloudfront-result.png)
+![PawVerse Result on CloudFront](/images/5-Workshop/5.6-EdgeLayer/pawverse-cloudfront-result.png)
 *Figure 5.6.2.2: The PawVerse application interface running smoothly via the CloudFront global distribution URL.*

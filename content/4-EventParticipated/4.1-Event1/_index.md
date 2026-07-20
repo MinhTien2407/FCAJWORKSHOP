@@ -95,6 +95,6 @@ Participating in the AI & Cloud Seminar Series was a valuable learning experienc
 Beyond the technical knowledge, the seminars also broadened my perspective on software engineering, cloud architecture, AI-assisted development, and teamwork. These experiences have strengthened my motivation to continue learning AWS technologies and applying them to future academic projects and real-world applications.
 
 #### Some event photos
-![Event 1](images/23thang5event1.png)
+![Event 1](/images/23thang5event1.png)
 
 > Overall, the seminar series significantly enhanced my understanding of modern AI technologies, AWS cloud services, and enterprise application architecture. The knowledge and practical experiences gained from these sessions will serve as a strong foundation for my future learning and professional career in Cloud Computing and Artificial Intelligence.

@@ -16,5 +16,5 @@ While CloudWatch functions as the health monitoring system, CloudTrail acts as t
 5. Scroll down, click **Next**, review the configurations, and click **Create trail**.
 6. To audit historical operations, navigate to the **Event history** tab. Every infrastructure adjustment executed during this Workshop (e.g., VPC creation, EC2 scaling, WAF configurations) is meticulously logged, detailing the executor's IAM identity and origin IP address.
 
-![CloudTrail Event History](images/5-Workshop/5.7-Monitoring/cloudtrail-logs.png)
+![CloudTrail Event History](/images/5-Workshop/5.7-Monitoring/cloudtrail-logs.png)
 *Figure 5.7.4.1: CloudTrail Event History interface capturing comprehensive infrastructure audit trails to enforce operational transparency.*

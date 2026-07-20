@@ -15,7 +15,7 @@ To conclusively demonstrate that the PawVerse database is completely obfuscated 
    nslookup pawverse-mysql.xxx.ap-southeast-1.rds.amazonaws.com
    ```
 
-![DNS Simulation nslookup](images/5-Workshop/5.4-Database-Security/dns-nslookup.png)
+![DNS Simulation nslookup](/images/5-Workshop/5.4-Database-Security/dns-nslookup.png)
 *Figure 5.4.4.1: The DNS system denies IP resolution (No A/AAAA records) for queries originating from the public Internet.*
 
 3. **Result Analysis:** Instead of returning an IP address like standard web domains, AWS Route 53 intercepts the query and returns a `No internal type for both IPv4 and IPv6 Addresses` error.
