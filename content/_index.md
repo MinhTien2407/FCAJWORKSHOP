@@ -29,7 +29,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 17/4/2026 to 10/7/2026
 
-![Your profile picture](/images/minhtien.jpg)
+![Your profile picture](images/minhtien.jpg)
 
 ### Report Content
 

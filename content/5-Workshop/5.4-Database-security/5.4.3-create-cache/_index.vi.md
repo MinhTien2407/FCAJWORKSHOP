@@ -18,7 +18,7 @@ Trong các sự kiện Flash Sale thương mại điện tử, lượng người
    + Chọn Subnet Group bao gồm các phân vùng **Private Subnet** nội bộ của hệ thống.
 6. Để bảo vệ dữ liệu trên đường truyền nội bộ, tính năng Mã hóa khi truyền tải (Encryption in transit) được kích hoạt nhằm đáp ứng tiêu chuẩn an toàn thông tin doanh nghiệp.
 
-![Cụm ElastiCache Redis](/images/5-Workshop/5.4-Database-Security/elasticache-redis.png)
+![Cụm ElastiCache Redis](images/5-Workshop/5.4-Database-Security/elasticache-redis.png)
 *Hình 5.4.3.1: Hệ thống lưu trữ bộ đệm Redis đã khởi tạo thành công với trạng thái Available.*
 
 7. Nhấn **Create**. Khi cụm đổi sang trạng thái màu xanh **Available**, sao chép lại địa chỉ **Configuration Endpoint** (chuỗi địa chỉ tổng quan dùng để định tuyến cho toàn cụm khi bật Cluster mode). Chuỗi địa chỉ này sẽ được nạp động vào biến môi trường của máy chủ EC2 Backend ở bước tiếp theo để kích hoạt tính năng lưu đệm dữ liệu.

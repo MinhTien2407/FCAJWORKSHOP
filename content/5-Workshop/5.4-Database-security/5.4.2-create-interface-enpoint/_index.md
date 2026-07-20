@@ -15,7 +15,7 @@ To ensure compute redundancy and isolate the storage engine from public access r
 4. **Availability Zones:** Select both `ap-southeast-1a` and `ap-southeast-1b`.
 5. **Subnets:** Carefully select the 2 specific CIDR blocks belonging to the isolated `Private DB Subnet` tier mapped in the networking lab.
 
-![Create RDS Subnet Group](/images/5-Workshop/5.4-Database-Security/rds-subnet.png)
+![Create RDS Subnet Group](images/5-Workshop/5.4-Database-Security/rds-subnet.png)
 *Figure 5.4.2.1: Clustering distinct Private DB subnets to enforce storage layer encapsulation.*
 
 6. Click **Create**.

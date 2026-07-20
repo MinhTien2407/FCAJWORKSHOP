@@ -102,4 +102,4 @@ Câu chuyện của CrescoNet cho thấy tối ưu chi phí trên AWS là một 
 
 Việc lựa chọn đúng dịch vụ, theo dõi chi phí thường xuyên và liên tục cải thiện kiến trúc giúp doanh nghiệp vừa tiết kiệm ngân sách, vừa nâng cao hiệu năng và khả năng mở rộng của hệ thống. Đây là một bài học rất đáng tham khảo đối với các tổ chức đang vận hành những hệ thống lớn trên nền tảng AWS.
 
-![ Blog 3](/images/Blog3.png)
+![ Blog 3](images/Blog3.png)

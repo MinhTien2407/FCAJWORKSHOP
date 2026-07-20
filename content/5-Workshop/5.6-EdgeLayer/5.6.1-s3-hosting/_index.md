@@ -18,5 +18,5 @@ Static Frontend assets such as HTML, CSS, JavaScript files, and images do not re
 5. Retain all default parameters and click **Create bucket**.
 6. Open the newly provisioned Bucket, select the **Objects** tab ---> click **Upload**. Upload all compiled production artifacts of the PawVerse Frontend project (including the core `index.html` file and `css`, `js`, `assets` directories).
 
-![S3 Frontend Hosting](/images/5-Workshop/5.6-EdgeLayer/s3-bucket.png)
+![S3 Frontend Hosting](images/5-Workshop/5.6-EdgeLayer/s3-bucket.png)
 *Figure 5.6.1.1: Static source code artifacts uploaded to S3 while strictly enforcing the Not Public access barrier.*

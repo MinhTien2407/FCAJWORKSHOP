@@ -15,19 +15,19 @@ The PawVerse system is currently operating seamlessly 100% on the Cloud environm
 **Home & Shopping Cart - Edge Layer Speed Experience:**
 The static interface and client-side computational logic are rendered almost instantly. Customers can experience smooth shopping, cart additions, and discount applications thanks to the power of Edge Caching.
 
-![PawVerse Homepage](/images/home.png)
+![PawVerse Homepage](images/home.png)
 *Figure 5.8.1: PawVerse homepage with near-zero load time powered by Amazon S3 & CloudFront.*
 
-![PawVerse Cart](/images/cart.png)
+![PawVerse Cart](images/cart.png)
 *Figure 5.8.2: Shopping cart interface handling high-speed logic directly in the browser.*
 
 **Admin Gate & Dashboard - Compute Layer Power:**
 Beyond static content, the Admin module proves that the dynamic API data flow operates perfectly. Product data, revenue charts, and order quantities are fetched directly from the Database via the Load Balancer (ALB) and EC2 architecture.
 
-![Product Management Page](/images/product.png)
+![Product Management Page](images/product.png)
 *Figure 5.8.3: Product management module loading real data from the RDS Database.*
 
-![Admin Dashboard](/images/dashboard.png)
+![Admin Dashboard](images/dashboard.png)
 *Figure 5.8.4: Dashboard displaying business overview (Successful Backend API integration).*
 
 ---

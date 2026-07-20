@@ -43,4 +43,4 @@ Conclusion
 
 System observability shouldn't rely on fragmented logging across multiple services. Taking advantage of AWS's CloudTrail Lake import capability to centralize logs in CloudWatch is a practical step toward standardizing operations, improving troubleshooting efficiency, and reducing operational overhead. It's a valuable feature that can significantly enhance the reliability and maintainability of modern AWS-based applications.
 
-![Blog 1](/images/Blog1.jpg)
+![Blog 1](images/Blog1.jpg)

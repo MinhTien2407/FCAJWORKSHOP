@@ -14,7 +14,7 @@ To combat cyberattacks targeting software vulnerabilities, we leverage CloudFron
 3. Within the WAF details interface, click **Add rule** ---> **Add managed rule groups**.
 4. Expand the **AWS managed rule groups** section, and activate the **SQL database** rule set (Scans and neutralizes malicious query strings designed for Database manipulation).
 
-![WAF Managed Rules](/images/5-Workshop/5.6-EdgeLayer/waf-rules.png)
+![WAF Managed Rules](images/5-Workshop/5.6-EdgeLayer/waf-rules.png)
 *Figure 5.6.3.1: Managed security rules refined and expanded with an active SQL Injection shield to protect the core Database architecture.*
 
 5. Click Save to apply the configuration. The perimeter defense firewall immediately propagates across global Edge locations, solidifying the PawVerse architecture into a resilient cloud fortress that drops malicious payloads at the boundary edge.

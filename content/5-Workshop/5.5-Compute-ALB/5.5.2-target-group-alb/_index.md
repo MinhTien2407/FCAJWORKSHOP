@@ -28,7 +28,7 @@ The Application Load Balancer represents our primary routing sentinel positioned
    + Select the underlying target VPC: `pawverse-vpc`.
    + **Mappings:** Check both active Availability Zones, explicitly assigning traffic entry paths to the mapped **2 Public Subnets**. This enables public internet accessibility routers.
 
-![ALB Network Configuration](/images/5-Workshop/5.5-Compute-ALB/alb.png)
+![ALB Network Configuration](images/5-Workshop/5.5-Compute-ALB/alb.png)
 *Figure 5.5.2.1: Mapping routing and subnet topologies to the Application Load Balancer interface.*
 
 6. **Security Groups:** Bind the dedicated ALB security framework, opening public interface ingress parameters (allowing HTTP Port `80` and HTTPS Port `443` access profiles to global vectors `0.0.0.0/0`).

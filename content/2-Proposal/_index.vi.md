@@ -19,7 +19,7 @@ Các nền tảng e-commerce cơ bản thường triển khai hạ tầng tĩnh 
 #### 4. Solution Architecture (Kiến trúc giải pháp)
 Hệ thống áp dụng kiến trúc phân tán Multi-AZ. Yêu cầu của người dùng trước tiên được kiểm duyệt qua WAF và tăng tốc bởi CloudFront. Các luồng gọi API đi qua Internet Gateway để vào Virtual Private Cloud (VPC), sau đó được ALB điều hướng. Năng lực xử lý (Compute) tự động mở rộng dựa trên các chỉ số giám sát từ CloudWatch. Toàn bộ máy chủ và dữ liệu lõi được bảo vệ nghiêm ngặt bên trong Private Subnet, giao tiếp nội bộ qua VPC Endpoint và kết nối ra ngoài qua NAT Gateway.
 
-![diagram](/images/2-Proposal/diagram.png)
+![diagram](images/2-Proposal/diagram.png)
 
 #### 5. Các dịch vụ AWS sử dụng
 + **Amazon EC2 & Auto Scaling:** Xử lý logic ứng dụng và tự động co giãn.

@@ -97,6 +97,6 @@ The event provided valuable insights into the practical applications of AI in st
 Through the presentations, I realized that developing successful AI solutions requires more than advanced technology. It also depends on understanding business needs, optimizing workflows, and ensuring that humans remain responsible for making critical decisions.
 
 #### Some event photos
-![Event 3](/images/27thang6event3.png)
+![Event 3](images/27thang6event3.png)
 
 > Overall, this event broadened my understanding of practical AI applications in modern enterprises. It strengthened my knowledge of AI system design, cloud operations, and business-oriented problem solving, while providing valuable ideas that can be applied to future AI and AWS projects.

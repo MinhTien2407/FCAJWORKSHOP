@@ -15,19 +15,19 @@ Hệ thống PawVerse hiện đang vận hành trơn tru 100% trên môi trườ
 **Trang Chủ (Home) & Giỏ Hàng (Cart) - Trải nghiệm tốc độ Tầng Biên:**
 Giao diện tĩnh và các logic tính toán (Client-side) được phản hồi gần như ngay lập tức. Khách hàng có thể trải nghiệm mua sắm, thêm vào giỏ hàng và áp dụng mã giảm giá mượt mà nhờ sức mạnh Edge Caching.
 
-![Trang chủ PawVerse](/images/home.png)
+![Trang chủ PawVerse](images/home.png)
 *Hình 5.8.1: Trang chủ PawVerse với tốc độ tải trang tiệm cận 0 nhờ Amazon S3 & CloudFront.*
 
-![Trang Giỏ hàng PawVerse](/images/cart.png)
+![Trang Giỏ hàng PawVerse](images/cart.png)
 *Hình 5.8.2: Giao diện Giỏ hàng xử lý logic tính toán siêu tốc ngay tại trình duyệt.*
 
 **Cổng Quản trị (Admin Gate & Dashboard) - Sức mạnh Tầng Tính toán:**
 Không chỉ dừng lại ở giao diện tĩnh, phân hệ Quản trị chứng minh luồng dữ liệu API động hoạt động hoàn hảo. Dữ liệu sản phẩm, biểu đồ doanh thu và số lượng đơn hàng được kéo trực tiếp từ Database lên thông qua kiến trúc Load Balancer (ALB) và EC2.
 
-![Trang Quản lý Sản phẩm](/images/product.png)
+![Trang Quản lý Sản phẩm](images/product.png)
 *Hình 5.8.3: Phân hệ Quản lý sản phẩm load data thực tế từ RDS Database.*
 
-![Trang Dashboard Admin](/images/dashboard.png)
+![Trang Dashboard Admin](images/dashboard.png)
 *Hình 5.8.4: Dashboard thể hiện tổng quan hoạt động kinh doanh (Gọi API Backend thành công).*
 
 ---

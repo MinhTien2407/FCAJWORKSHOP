@@ -15,7 +15,7 @@ pre : " <b> 5.4.2. </b> "
 4. **Availability Zones:** Chọn 2 vùng `ap-southeast-1a` và `ap-southeast-1b`.
 5. **Subnets:** Tích chọn chính xác 2 dải CIDR thuộc phân vùng `Private DB Subnet` đã phân chia ở chương trước.
 
-![Tạo RDS Subnet Group](/images/5-Workshop/5.4-Database-Security/rds-subnet.png)
+![Tạo RDS Subnet Group](images/5-Workshop/5.4-Database-Security/rds-subnet.png)
 *Hình 5.4.2.1: Nhóm các lớp mạng Private DB Subnet độc lập để cô lập tầng dữ liệu lõi.*
 
 6. Bấm **Create**.

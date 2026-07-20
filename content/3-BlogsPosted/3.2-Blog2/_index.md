@@ -95,4 +95,4 @@ There is no single database that can efficiently handle every workload in a mode
 
 Choosing the right database from the beginning not only improves application performance and reduces operational costs but also makes the system easier to scale and maintain as the game evolves. It's an architectural approach well worth considering for any modern game backend project.
 
-![ Blog 2](/images/Blog2.jpg)
+![ Blog 2](images/Blog2.jpg)

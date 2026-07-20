@@ -14,5 +14,5 @@ When an architecture scales horizontally across multiple parallel nodes (Auto Sc
 3. Open the Log Group to view the underlying **Log streams** - each stream perfectly correlates to an individual active EC2 compute node.
 4. Open any active Log stream. The entire Docker and Spring Boot console output (spanning bootstrap initialization, Database connection verifications, and HTTP 403/500 stack traces) is rendered chronologically.
 
-![CloudWatch Log Streams](/images/5-Workshop/5.7-Monitoring/cw-logs.png)
+![CloudWatch Log Streams](images/5-Workshop/5.7-Monitoring/cw-logs.png)
 *Figure 5.7.2.1: Retrieving and analyzing internal Spring Boot application traces via the centralized log management console.*

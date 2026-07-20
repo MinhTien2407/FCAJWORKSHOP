@@ -16,7 +16,7 @@ To strictly adhere to enterprise-grade security compliance, the Backend source c
    + `DB_PASS` : `pawverse123Secret`
    + `JWT_SECRET` : `mySecretKeyForJwtTokenInPawVerseApplication2026`
 
-![Create AWS Secrets Manager](/images/5-Workshop/5.4-Database-Security/secrets-manager.png)
+![Create AWS Secrets Manager](images/5-Workshop/5.4-Database-Security/secrets-manager.png)
 *Figure 5.4.1.1: Storing database connection strings and JWT Secrets as encrypted Key/Value pairs.*
 
 4. Click **Next**. In the **Secret name** field, define the production environment identifier: `pawverse-prod-secrets`.

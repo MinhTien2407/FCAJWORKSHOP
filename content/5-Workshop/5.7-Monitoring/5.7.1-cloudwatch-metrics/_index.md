@@ -23,5 +23,5 @@ Metrics provide real-time situational awareness regarding resource consumption a
    + Add a new widget ---> `RDS` ---> `Per-Database Metrics`.
    + Select the `pawverse-mysql-db` instance, checking `DatabaseConnections` (Ensuring database connection pools remain within safe thresholds).
 
-![CloudWatch Dashboard](/images/5-Workshop/5.7-Monitoring/cw-metrics.png)
+![CloudWatch Dashboard](images/5-Workshop/5.7-Monitoring/cw-metrics.png)
 *Figure 5.7.1.1: The centralized monitoring dashboard integrating in-depth OS-level telemetry via CWAgent alongside network services.*

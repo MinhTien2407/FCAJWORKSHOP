@@ -93,6 +93,6 @@ pre: " <b> 4.1. </b> "
 Chuỗi Seminar mang đến nhiều kiến thức thực tiễn về AI, Cloud Computing và các xu hướng công nghệ hiện đại. Bên cạnh việc được tiếp cận với các giải pháp kỹ thuật mới, em còn học hỏi được nhiều kinh nghiệm triển khai dự án, quy trình làm việc và tư duy thiết kế hệ thống từ các diễn giả giàu kinh nghiệm. Đây là cơ hội giúp em mở rộng kiến thức chuyên môn, cập nhật các công nghệ mới và định hướng tốt hơn cho quá trình học tập cũng như phát triển nghề nghiệp trong lĩnh vực Cloud và AI.
 
 #### Một số hình ảnh khi tham gia sự kiện
-![Event 1](/images/23thang5event1.png)
+![Event 1](images/23thang5event1.png)
 
 > Tổng kết, chuỗi Seminar đã giúp em hiểu rõ hơn về các xu hướng AI hiện đại, kiến trúc Cloud trên AWS và các phương pháp phát triển ứng dụng thực tế. Những kiến thức và kinh nghiệm thu nhận được sẽ là nền tảng quan trọng để em tiếp tục học tập, nghiên cứu và áp dụng vào các dự án trong tương lai.

@@ -33,4 +33,4 @@ stress --cpu 2 --timeout 600s
 3. **Hạ tải hệ thống:** Bấm `Ctrl + C` trên terminal để tắt tiến trình `stress`. Sau thời gian cooldown (thời gian giảm nhiệt), kiểm tra mục Activity history của ASG để đảm bảo hệ thống tự động xóa bỏ máy chủ thừa (**Scale-in**), đưa hạ tầng về trạng thái tối ưu chi phí ban đầu.
 
 
-![Kết quả test Auto Scaling](/images/5-Workshop/5.5-Compute-ALB/asg-test-result.png)
+![Kết quả test Auto Scaling](images/5-Workshop/5.5-Compute-ALB/asg-test-result.png)

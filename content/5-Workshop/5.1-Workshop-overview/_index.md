@@ -14,7 +14,7 @@ This workshop provides step-by-step guidance on building a distributed, auto-sca
 #### Architecture Diagram
 The PawVerse system is designed with a Multi-tier Architecture across multiple Availability Zones (Multi-AZ), ensuring High Availability and strict separation of data flows.
 
-![PawVerse Architecture Diagram](/images/5-Workshop/5.1-Workshop-overview/diagram.png)
+![PawVerse Architecture Diagram](images/5-Workshop/5.1-Workshop-overview/diagram.png)
 *Figure 5.1.1: Data flow diagram of the PawVerse architecture on AWS.*
 
 #### Core Components Explanation

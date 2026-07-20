@@ -50,8 +50,8 @@ export REDIS_HOST="clustercfg.pawverse-redis.ckq3fs.apse1.cache.amazonaws.com"
 nohup ./pawverse-backend > /var/log/pawverse.log 2>&1 &
 ```
 
-![Configure Launch Template](/images/5-Workshop/5.5-Compute-ALB/launch-template.png)
-![Configure Launch Template](/images/5-Workshop/5.5-Compute-ALB/launch-template1.png)
+![Configure Launch Template](images/5-Workshop/5.5-Compute-ALB/launch-template.png)
+![Configure Launch Template](images/5-Workshop/5.5-Compute-ALB/launch-template1.png)
 *Figure 5.5.1.1: Binding the 'lab' IAM Role configuration and injecting the automated User Data bootstrap shell script.*
 
 8. Click **Create launch template** to finalize the compute standardization blueprint.

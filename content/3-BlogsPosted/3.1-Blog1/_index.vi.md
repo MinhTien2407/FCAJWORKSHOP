@@ -34,4 +34,4 @@ Kết luận:
 
 Việc giám sát hệ thống không nên là một công việc chắp vá từ nhiều nguồn. Tận dụng tính năng import này của AWS để quy hoạch toàn bộ log về CloudWatch là một bước đi thiết thực giúp chuẩn hóa quy trình vận hành và tiết kiệm đáng kể thời gian xử lý sự cố. Đây là một giải pháp rất đáng để áp dụng nhằm nâng cao độ tin cậy cho các dự án!
 
-![ Blog 1](/images/Blog1.jpg)
+![ Blog 1](images/Blog1.jpg)

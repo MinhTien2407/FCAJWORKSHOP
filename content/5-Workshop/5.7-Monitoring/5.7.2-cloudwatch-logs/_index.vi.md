@@ -14,5 +14,5 @@ Khi hệ thống có nhiều máy ảo chạy song song (Auto Scaling), việc k
 3. Nhấp vào Log Group, bạn sẽ thấy danh sách các **Log streams** - mỗi stream đại diện cho một con máy ảo EC2 đang chạy.
 4. Bấm vào một Log stream bất kỳ. Tại đây, toàn bộ màn hình Console của Docker và Spring Boot (Bao gồm lịch sử khởi động, thông tin kết nối Database, và các lỗi 403, 500 nếu có) đều hiển thị rõ ràng theo trình tự thời gian.
 
-![CloudWatch Logs](/images/5-Workshop/5.7-Monitoring/cw-logs.png)
+![CloudWatch Logs](images/5-Workshop/5.7-Monitoring/cw-logs.png)
 *Hình 5.7.2.1: Truy xuất và phân tích mã lỗi từ ứng dụng Spring Boot thông qua hệ thống quản lý nhật ký tập trung.*

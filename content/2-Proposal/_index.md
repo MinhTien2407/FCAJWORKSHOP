@@ -19,7 +19,7 @@ Basic e-commerce platforms often deploy static infrastructure and store source c
 #### 4. Solution Architecture
 The system applies a distributed Multi-AZ architecture. User requests are first inspected via WAF and accelerated by CloudFront. API traffic passes through the Internet Gateway into the Virtual Private Cloud (VPC), directed by the ALB. Compute capacity automatically scales based on CloudWatch monitoring metrics. All servers and core data are strictly protected inside Private Subnets, communicating internally via VPC Endpoints and outbound via NAT Gateways.
 
-![diagram](/images/2-Proposal/diagram.png)
+![diagram](images/2-Proposal/diagram.png)
 
 #### 5. AWS Services Used
 + **Amazon EC2 & Auto Scaling:** Process business logic and scale automatically.

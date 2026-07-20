@@ -23,5 +23,5 @@ Metrics cung cấp cái nhìn tổng quan về mức độ tiêu thụ tài nguy
    + Thêm widget mới ---> `RDS` ---> `Per-Database Metrics`.
    + Chọn Database `pawverse-mysql-db`, tích vào `DatabaseConnections` (Đảm bảo số lượng kết nối DB luôn ở mức an toàn).
 
-![CloudWatch Dashboard](/images/5-Workshop/5.7-Monitoring/cw-metrics.png)
+![CloudWatch Dashboard](images/5-Workshop/5.7-Monitoring/cw-metrics.png)
 *Hình 5.7.1.1: Bảng điều khiển giám sát tập trung, tích hợp dữ liệu hệ điều hành chuyên sâu từ CWAgent và các dịch vụ mạng.*
